@@ -43,7 +43,7 @@ git clone https://github.com/TYDev01/Hng12_Task_0.git
 {
     "email": "tonieschi@gmail.com",
     "current_datetime": "2025-01-29T14:30:45.123456Z",
-    "github_url": "https://github.io/TYDev01.git/task0hng"
+    "github_url": "https://github.com/TYDev01/Hng12_Task_0"
 }
 ```
 
