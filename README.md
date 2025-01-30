@@ -48,5 +48,8 @@ git clone https://github.com/TYDev01/Hng12_Task_0.git
 ```
 
 
-### My choosen programming language:
-    - https://hng.tech/hire/python-developers
+### Hire Python Developers From HNG
+
+For hiring Python developers, check out:
+<a href="https://hng.tech/hire/python-developers">https://hng.tech/hire/python-developers</a>
+
