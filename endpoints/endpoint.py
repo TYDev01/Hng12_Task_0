@@ -8,7 +8,7 @@ router = APIRouter()
 @router.get("/", status_code=status.HTTP_200_OK)
 def home():
     email = "tonieschi@gmail.com"
-    current_datetime = datetime.now(timezone.utc).isoformat()
+    current_datetime = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     github_url = "https://github.com/TYDev01/Hng12_Task_0"
 
     return {
