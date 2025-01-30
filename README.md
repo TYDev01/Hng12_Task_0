@@ -13,7 +13,9 @@ This is a simple Project built with FastAPI with a single route that Retrieve Ba
 ### 1 Clone the Repository
 ```bash
 git clone https://github.com/TYDev01/Hng12_Task_0.git
+```
 cd Hng12_Task_0
+
 
 
 ### 2 Create a Virtual Enviroment
