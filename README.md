@@ -49,4 +49,4 @@ git clone https://github.com/TYDev01/Hng12_Task_0.git
 
 
 ### My choosen programming language:
-    - [text](https://hng.tech/hire/python-developers)
+    - https://hng.tech/hire/python-developers
