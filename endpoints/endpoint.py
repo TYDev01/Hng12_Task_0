@@ -9,7 +9,7 @@ router = APIRouter()
 def home():
     email = "tonieschi@gmail.com"
     current_datetime = datetime.now(timezone.utc).isoformat()
-    github_url = "https://github.io/TYDev01.git/task0hng"
+    github_url = "https://github.com/TYDev01/Hng12_Task_0"
 
     return {
         "email": email,
