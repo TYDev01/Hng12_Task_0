@@ -34,7 +34,7 @@ git clone https://github.com/TYDev01/Hng12_Task_0.git
     - Once the server is running, visit:
         http://127.0.0.1:8000/home
             or use curl
-    - curl http://127.0.0.1:8000/
+    - curl http://127.0.0.1:8000/home
 
 <hr>
 
