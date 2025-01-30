@@ -18,5 +18,5 @@ app.add_middleware(
 
 )
 
-app.include_router(info_router, prefix="/home", tags=["Infos"])
+app.include_router(info_router, prefix="", tags=["Infos"])
 
